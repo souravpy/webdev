@@ -1,0 +1,7 @@
+ADDING CSS TO HTML DOCUMENT:
+
+css can be imported in html using three methods:
+inline: style in HTML elements
+internal: using a <style> element in the <head> section
+external: using <link> element to link an external CSS file
+

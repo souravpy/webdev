@@ -1,0 +1,14 @@
+css syntax:
+
+it connsists of selection and declaration block
+
+h1 {color:blue; font-size:12px;}
+
+selection:
+	selects the block needed to be edited
+	h1 is a selector
+
+declaration:
+	content in {} is decalaration
+html is simialr to markdown lang used in git md
+

@@ -1,0 +1,23 @@
+Something I’ve learned in the past and what I’m using regularly today, is the use of the predefined “marks” of the window. In my opinion, these three normal command keys are really useful if applied correctly:
+
+    H jumps to the top of the window
+    M jumps to the middle of the window
+    L jumps to the bottom of the window
+
+Now that’s nice, but only used for jumping it’s not very powerful. The nice thing about motions is, you can combine them – and this is where the magic happens.
+Let’s say you wantnd you don’t know if it’s 30 40 or even 39 ines. If you’re a newbie, you might press dd (or . afterwards) several times until you’ve deleted all the lines in question. That might work for deleting a couple of lines, but isn’t very sexy. What about cutting the whole block so you can paste it later?
+
+All of this works much better if you…
+
+    Align the last line of the block on the end of the window
+    Put the cursor on the first line of the block
+
+	<html>
+		<head>
+		
+		</head>
+		
+		<body>
+		
+		</body>
+	</html>
