@@ -1,11 +1,35 @@
+                /*----------------TAG SELECTORS-------------------*/
                 body {
                         background-color: aquamarine;
                 }
 
+                h1{
+                        font-style: bold;
+                        color: white;
+                }
+                
                 hr {
                         border-style: none;
                         border-top-style: dotted;
-                        border-width: 10px;
-                        border-color: brown;
+                        border-width: 20px;
+                        border-color: white;
+
                 }
-                
+
+                p {
+                        font-size: medium;
+                        font-style: italic;
+                        color: black;
+                }
+
+                /*----------------CLASS SELECTORS-------------------*/
+
+                .my-class{
+                        text-align: center;
+                }
+
+                /*----------------ID SELECTORS-------------------*/
+
+                #my-class{
+                        text-align: center;
+                }
