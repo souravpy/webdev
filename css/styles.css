@@ -3,7 +3,12 @@
                         background-color: aquamarine;
                 }
 
-                h1{
+                h1{ /*normal*/
+                        font-style: bold;
+                        color: purple;
+                }
+
+                h1:hover{ /*when hovered*/
                         font-style: bold;
                         color: white;
                 }
@@ -30,6 +35,6 @@
 
                 /*----------------ID SELECTORS-------------------*/
 
-                #my-class{
-                        text-align: center;
+                #my-id{
+                        text-align: left;
                 }
