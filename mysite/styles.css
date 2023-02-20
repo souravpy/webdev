@@ -2,14 +2,24 @@ body{
         background-color: aquamarine;
 }
 
+.top-container{
+        background-color: white;
+        height: 200px;
+        width: 200px;
+        padding: 22px;
+        border: 22px;
+}
+
 .middle-container{
         background-color: blue;
         height: 200px;
         width: 200px;
+        margin-left: 244px;
 }
 
 .bottom-container{
         background-color: blueviolet;
         height: 200px;
         width: 200px;
+        margin-left: 444px;
 }
